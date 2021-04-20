@@ -1,4 +1,4 @@
-#ARCH63B
+COMPUTER ARCHITECTURE
 
 1. CLIP2 <https://youtu.be/uEUtw1_njVw>
 2. CLIP3 <https://youtu.be/TT__ormFxYw>
@@ -6,5 +6,8 @@
 4. CLIP5 <https://youtu.be/midzGVP6q9M>
 5. CLIP6 <https://youtu.be/stbiylsvDcw>
 6. CLIP7 <https://youtu.be/35b4AgW-pWM>
+7. CLIP8 <https://youtu.be/dk9TUTyd_yI>
+8. CLIP9 <https://youtu.be/bWMkXGBengQ>
+
 
 
